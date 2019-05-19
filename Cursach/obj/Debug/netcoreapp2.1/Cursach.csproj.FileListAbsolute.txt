@@ -1,0 +1,87 @@
+C:\Projects\Cursach\Cursach\Cursach\bin\Debug\netcoreapp2.1\Cursach.deps.json
+C:\Projects\Cursach\Cursach\Cursach\bin\Debug\netcoreapp2.1\Cursach.runtimeconfig.json
+C:\Projects\Cursach\Cursach\Cursach\bin\Debug\netcoreapp2.1\Cursach.runtimeconfig.dev.json
+C:\Projects\Cursach\Cursach\Cursach\bin\Debug\netcoreapp2.1\Cursach.dll
+C:\Projects\Cursach\Cursach\Cursach\bin\Debug\netcoreapp2.1\Cursach.pdb
+C:\Projects\Cursach\Cursach\Cursach\bin\Debug\netcoreapp2.1\Cursach.Views.dll
+C:\Projects\Cursach\Cursach\Cursach\bin\Debug\netcoreapp2.1\Cursach.Views.pdb
+C:\Projects\Cursach\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.csprojAssemblyReference.cache
+C:\Projects\Cursach\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.csproj.CoreCompileInputs.cache
+C:\Projects\Cursach\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.RazorAssemblyInfo.cache
+C:\Projects\Cursach\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.RazorAssemblyInfo.cs
+C:\Projects\Cursach\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.AssemblyInfoInputs.cache
+C:\Projects\Cursach\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.AssemblyInfo.cs
+C:\Projects\Cursach\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.TagHelpers.input.cache
+C:\Projects\Cursach\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.TagHelpers.output.cache
+C:\Projects\Cursach\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.RazorCoreGenerate.cache
+C:\Projects\Cursach\Cursach\Cursach\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Projects\Cursach\Cursach\Cursach\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Projects\Cursach\Cursach\Cursach\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Projects\Cursach\Cursach\Cursach\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Projects\Cursach\Cursach\Cursach\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Projects\Cursach\Cursach\Cursach\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Projects\Cursach\Cursach\Cursach\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Projects\Cursach\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.RazorTargetAssemblyInfo.cache
+C:\Projects\Cursach\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.RazorTargetAssemblyInfo.cs
+C:\Projects\Cursach\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.Views.pdb
+C:\Projects\Cursach\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.dll
+C:\Projects\Cursach\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.pdb
+C:\Projects\Cursach\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.csproj.CopyComplete
+C:\Projects\CursachIvan\Cursach\Cursach\bin\Debug\netcoreapp2.1\Cursach.deps.json
+C:\Projects\CursachIvan\Cursach\Cursach\bin\Debug\netcoreapp2.1\Cursach.runtimeconfig.json
+C:\Projects\CursachIvan\Cursach\Cursach\bin\Debug\netcoreapp2.1\Cursach.runtimeconfig.dev.json
+C:\Projects\CursachIvan\Cursach\Cursach\bin\Debug\netcoreapp2.1\Cursach.dll
+C:\Projects\CursachIvan\Cursach\Cursach\bin\Debug\netcoreapp2.1\Cursach.pdb
+C:\Projects\CursachIvan\Cursach\Cursach\bin\Debug\netcoreapp2.1\Cursach.Views.dll
+C:\Projects\CursachIvan\Cursach\Cursach\bin\Debug\netcoreapp2.1\Cursach.Views.pdb
+C:\Projects\CursachIvan\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.csprojAssemblyReference.cache
+C:\Projects\CursachIvan\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.csproj.CoreCompileInputs.cache
+C:\Projects\CursachIvan\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.RazorAssemblyInfo.cache
+C:\Projects\CursachIvan\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.RazorAssemblyInfo.cs
+C:\Projects\CursachIvan\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.AssemblyInfoInputs.cache
+C:\Projects\CursachIvan\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.AssemblyInfo.cs
+C:\Projects\CursachIvan\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.TagHelpers.input.cache
+C:\Projects\CursachIvan\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.TagHelpers.output.cache
+C:\Projects\CursachIvan\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.RazorCoreGenerate.cache
+C:\Projects\CursachIvan\Cursach\Cursach\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Projects\CursachIvan\Cursach\Cursach\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Projects\CursachIvan\Cursach\Cursach\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Projects\CursachIvan\Cursach\Cursach\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Projects\CursachIvan\Cursach\Cursach\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Projects\CursachIvan\Cursach\Cursach\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Projects\CursachIvan\Cursach\Cursach\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Projects\CursachIvan\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.RazorTargetAssemblyInfo.cache
+C:\Projects\CursachIvan\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.RazorTargetAssemblyInfo.cs
+C:\Projects\CursachIvan\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.Views.pdb
+C:\Projects\CursachIvan\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.dll
+C:\Projects\CursachIvan\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.pdb
+C:\Projects\CursachIvan\Cursach\Cursach\obj\Debug\netcoreapp2.1\Cursach.csproj.CopyComplete
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\bin\Debug\netcoreapp2.1\Cursach.deps.json
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\bin\Debug\netcoreapp2.1\Cursach.runtimeconfig.json
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\bin\Debug\netcoreapp2.1\Cursach.runtimeconfig.dev.json
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\bin\Debug\netcoreapp2.1\Cursach.dll
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\bin\Debug\netcoreapp2.1\Cursach.pdb
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\bin\Debug\netcoreapp2.1\Cursach.Views.dll
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\bin\Debug\netcoreapp2.1\Cursach.Views.pdb
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Cursach.csprojAssemblyReference.cache
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Cursach.csproj.CoreCompileInputs.cache
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Cursach.RazorAssemblyInfo.cache
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Cursach.RazorAssemblyInfo.cs
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Cursach.AssemblyInfoInputs.cache
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Cursach.AssemblyInfo.cs
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Cursach.TagHelpers.input.cache
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Cursach.TagHelpers.output.cache
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Cursach.RazorCoreGenerate.cache
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Cursach.RazorTargetAssemblyInfo.cache
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Cursach.RazorTargetAssemblyInfo.cs
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Cursach.Views.pdb
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Cursach.dll
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Cursach.pdb
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Cursach.csproj.CopyComplete
