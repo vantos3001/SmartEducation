@@ -63,7 +63,6 @@ C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\b
 C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\bin\Debug\netcoreapp2.1\Cursach.pdb
 C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\bin\Debug\netcoreapp2.1\Cursach.Views.dll
 C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\bin\Debug\netcoreapp2.1\Cursach.Views.pdb
-C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Cursach.csprojAssemblyReference.cache
 C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Cursach.csproj.CoreCompileInputs.cache
 C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Cursach.RazorAssemblyInfo.cache
 C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Cursach.RazorAssemblyInfo.cs
@@ -85,3 +84,4 @@ C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\o
 C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Cursach.dll
 C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Cursach.pdb
 C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Cursach.csproj.CopyComplete
+C:\Institute\3 Course\SmartEducation\SmartEducationSite\SmartEducation\Cursach\obj\Debug\netcoreapp2.1\Cursach.csprojAssemblyReference.cache

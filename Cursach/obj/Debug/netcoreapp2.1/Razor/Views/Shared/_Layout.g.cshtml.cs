@@ -54,7 +54,7 @@ using Cursach.Models;
             WriteLiteral("<!DOCTYPE html>\r\n<html>\r\n");
             EndContext();
             BeginContext(25, 175, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c968203fc48e47e187f9f28e5b18b856", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b94d70f4f6e345ef8c46ad189b326d35", async() => {
                 BeginContext(31, 162, true);
                 WriteLiteral("\r\n    <meta charset=\"utf-8\" />\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\r\n    <title>AngularApp</title>\r\n    <base href=\"/\">\r\n");
                 EndContext();
@@ -74,7 +74,7 @@ using Cursach.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(202, 34, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f5fbae66e0754baa82f7efa20b7a340b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18fe282b7a9641cea084e1c6b08274f0", async() => {
                 BeginContext(208, 6, true);
                 WriteLiteral("\r\n    ");
                 EndContext();
